@@ -6,7 +6,7 @@
 struct chuhu{
     char idnum[9];//账户 
     char name[10];//姓名
-    char idnumber[20];//省份证号
+    char idnumber[20];//身份证号
    char password[7];//密码 
    double cunkuan;//存款 
 }hu[N]; 
