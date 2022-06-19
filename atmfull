@@ -546,6 +546,6 @@ void date(){//显示当前日期
 printf("当前日期：");
 system("date/t");
 printf("当前时间：");
-system("time/t"); 
+system("time/t")；
      
 }
